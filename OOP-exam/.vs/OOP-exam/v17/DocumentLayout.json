@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\OOP-exam\\OOP-exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FACA893-DE95-426F-9CBE-6ED589EE7284}|OOP-exam\\OOP-exam.vcxproj|C:\\Users\\user\\Documents\\GitHub\\OOP-exam\\OOP-exam\\OOP-exam\\OOP-exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FACA893-DE95-426F-9CBE-6ED589EE7284}|OOP-exam\\OOP-exam.vcxproj|solutionrelative:OOP-exam\\OOP-exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP-exam.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\OOP-exam\\OOP-exam\\OOP-exam\\OOP-exam.cpp",
+              "RelativeDocumentMoniker": "OOP-exam\\OOP-exam.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\OOP-exam\\OOP-exam\\OOP-exam\\OOP-exam.cpp",
+              "RelativeToolTip": "OOP-exam\\OOP-exam.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-10T05:12:49.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
