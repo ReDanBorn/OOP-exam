@@ -1,2 +1,3 @@
-﻿  50.cpp
-  OOP-exam.vcxproj -> C:\Users\Даниил\Documents\GitHub\Neuro-script\OOP-exam\OOP-exam\x64\Debug\OOP-exam.exe
+﻿  46-47.cpp
+C:\Users\Даниил\Documents\GitHub\Neuro-script\OOP-exam\OOP-exam\OOP-exam\46-47.cpp(75,9): error C2086: std::string A::msg: переопределение
+C:\Users\Даниил\Documents\GitHub\Neuro-script\OOP-exam\OOP-exam\OOP-exam\46-47.cpp(77,9): error C2086: std::string A::msg: переопределение
