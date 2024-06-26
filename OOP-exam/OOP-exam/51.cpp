@@ -10,7 +10,7 @@
 //
 //	Apple(int weight, string color)
 //	{
-//		this->weight = weight;
+//		this->weight = weight; //THIS - это указатель объекта на самого себя т.е. у каждого объекта свои переменные. При запросе важно указать в переменные какого объекта записывать данные.
 //		this->color = color;
 //		Count++;
 //	}
