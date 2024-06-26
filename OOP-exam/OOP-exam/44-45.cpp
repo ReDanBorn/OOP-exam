@@ -168,14 +168,6 @@ void Test(MyClass value/*Конструктор копирования 2 от компилятора*/) //MyClass v
 	cout << "Вызвалась функция Test" << endl;
 }
 
-//MyClass Test2()
-//{
-//	cout << "Вызвалась функция Test2" << endl;
-//	MyClass temp(2);
-//
-//	return temp;
-//}
-
 int main()
 {
 	setlocale(LC_ALL, "ru");
