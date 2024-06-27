@@ -31,7 +31,7 @@ using namespace std;
 void main()
 {
 	setlocale(LC_ALL, "RU");
-   system("chcp 1251");
+ system("chcp 1251");
 	const int SIZE = 5;
 	int arr[SIZE]{ 4, 6, 3, 7, 8 };
 	for (int i = 0; i < SIZE; i++)
