@@ -7,15 +7,15 @@ int main()
     system("chcp 1251");
     string name;
     cout << "Input your name: ";
-    //Или/Или
+    //РР»Рё/РР»Рё
     //cin >> name;
     getline(cin, name);
-    //Или/Или
+    //РР»Рё/РР»Рё
     cout << "Your name: " << name << std::endl;
 
     string message
-    { 
-        "Hello METANIT.COM!" 
+    {
+        "Hello METANIT.COM!"
     };
     string message2 = "Hello METANIT.COM!";
     string message3("Hello METANIT.COM!");
@@ -59,8 +59,8 @@ int main()
 
     string hello4{ "hello" };
     string message13{ hello4 + " world" "!" };
-    //string message13{ "hello " + "world" + "!" }; //ОШИБКА!!!
-    string message14{ "hello "s + "world"s + "!"s }; //Однако если после литералов стоит символ S, то всё работает (S преобразует литералы в объекты)
+    //string message13{ "hello " + "world" + "!" }; //РћРЁРР‘РљРђ!!!
+    string message14{ "hello "s + "world"s + "!"s }; //РћРґРЅР°РєРѕ РµСЃР»Рё РїРѕСЃР»Рµ Р»РёС‚РµСЂР°Р»РѕРІ СЃС‚РѕРёС‚ СЃРёРјРІРѕР» S, С‚Рѕ РІСЃС‘ СЂР°Р±РѕС‚Р°РµС‚ (S РїСЂРµРѕР±СЂР°Р·СѓРµС‚ Р»РёС‚РµСЂР°Р»С‹ РІ РѕР±СЉРµРєС‚С‹)
     cout << "string message13: " << message13 << endl;
     cout << "string message14: " << message14 << endl;
     string text{ "Name: \t\"Tom\"\nAge:\t38" };
