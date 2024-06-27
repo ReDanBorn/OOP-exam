@@ -137,6 +137,7 @@
 //
 //int main()
 //{
+//	system("chcp 1251");
 //	setlocale(LC_ALL, "RU-ru");
 //
 //	Test test(6);
@@ -186,6 +187,7 @@ private:
 
 int main()
 {
+	system("chcp 1251");
 	setlocale(LC_ALL, "RU-ru");
 
 	Apple apple(150, "Red");

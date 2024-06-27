@@ -45,6 +45,7 @@
 //
 //int main()
 //{
+//	system("chcp 1251");
 //	setlocale(LC_ALL, "RU_ru");
 //
 //	Human h;
@@ -90,6 +91,7 @@ public:
 
 int main()
 {
+	system("chcp 1251");
 	setlocale(LC_ALL, "RU_ru");
 	B b;
 	b.PrintMsg();

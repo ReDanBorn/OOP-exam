@@ -24,6 +24,7 @@
 //
 //int main()
 //{
+//	system("chcp 1251");
 //	setlocale(LC_ALL, "RU-ru");
 //
 //	Apple apple(100, "Green");
@@ -70,6 +71,7 @@
 //
 //int main()
 //{
+//	system("chcp 1251");
 //	setlocale(LC_ALL, "RU-ru");
 //
 //	Apple apple(100, "Green");
@@ -119,6 +121,7 @@
 //
 //int main()
 //{
+//	system("chcp 1251");
 //	setlocale(LC_ALL, "RU-ru");
 //
 //	Apple apple(100, "Green");
@@ -182,6 +185,7 @@ int Apple::Count = 0;
 
 int main()
 {
+	system("chcp 1251");
 	setlocale(LC_ALL, "RU-ru");
 
 	Apple apple(100, "Green");

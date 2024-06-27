@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	system("chcp 1251");
 	int* pa = new int; //»нициализаци€ переменной в динамической пам€ти
 	int* pb = new int[5]; //»нициализаци€ массива в динамической пам€ти
 	*pa = 10;

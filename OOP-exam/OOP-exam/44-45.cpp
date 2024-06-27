@@ -61,6 +61,7 @@
 //
 //int main()
 //{
+//	system("chcp 1251");
 //	Point p;
 //
 //	p.Print();
@@ -114,6 +115,7 @@
 //
 //int main()
 //{
+//	system("chcp 1251");
 //	setlocale(LC_ALL, "ru");
 //	Test();
 //	MyClass a(25, 2);
@@ -170,6 +172,7 @@ void Test(MyClass value/*Конструктор копирования 2 от компилятора*/) //MyClass v
 
 int main()
 {
+	system("chcp 1251");
 	setlocale(LC_ALL, "ru");
 	MyClass a(25);
 

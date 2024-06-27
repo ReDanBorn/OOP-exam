@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    system("chcp 1251");
     string name;
     cout << "Input your name: ";
     //Èëè/Èëè

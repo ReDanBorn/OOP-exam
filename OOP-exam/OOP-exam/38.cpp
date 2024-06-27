@@ -5,6 +5,7 @@
 //
 //void main()
 //{
+//	system("chcp 1251");
 //	int a = 5;
 //	int b = a; // просто присвоение значения другой переменной
 //	int *pa = &a; // *pa - указатель || & - оператор взятия адреса
@@ -30,6 +31,7 @@ using namespace std;
 
 void main()
 {
+	system("chcp 1251");
 	setlocale(LC_ALL, "RU");
 	const int SIZE = 5;
 	int arr[SIZE]{ 4, 6, 3, 7, 8 };

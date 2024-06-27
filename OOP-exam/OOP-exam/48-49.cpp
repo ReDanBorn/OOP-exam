@@ -64,6 +64,7 @@ public:
 
 int main()
 {
+	system("chcp 1251");
 	setlocale(LC_ALL, "ru");
 
 	Gun gun; //Объявили объект класса Gun (пистолет)
